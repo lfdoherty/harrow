@@ -1,0 +1,12 @@
+{
+  "name": "harrow",
+  "version": "0.0.1",
+  "description": "",
+  "author": "Liam Doherty",
+  "main": "./lib/main",
+  "dependencies": {
+    "node-uuid": "~1.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {}
+}
