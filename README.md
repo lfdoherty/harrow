@@ -6,7 +6,7 @@ Harrow is a serialization library compatible with [BoxDS](https://github.com/lfd
 ## API
 
 ### serialize(w, handle)
-Takes a Writer (see [binutil](https://github.com/lfdoherty/binutil), and a harrow handle.
+Takes a Writer (see [binutil](https://github.com/lfdoherty/binutil)), and a harrow handle.
 
 ### instantiate(buf)
 Creates a Harrow handle from a binary buffer.
