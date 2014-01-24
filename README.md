@@ -33,7 +33,7 @@ Replay the update on the Harrow handle and callback with the one or more edit ev
 		}
 	}
 
-Example types:
+Property types:
 
 - int32
 - string
