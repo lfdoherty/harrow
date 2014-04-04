@@ -1,11 +1,14 @@
 {
   "name": "harrow",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "",
   "author": "Liam Doherty",
   "main": "./lib/main",
   "dependencies": {
-    "node-uuid": "~1.4.1"
+    "node-uuid": "~1.4.1",
+    "seedrandom": "git://github.com/lfdoherty/seedrandom.git",
+    "underscorem": "git://github.com/lfdoherty/underscorem.git",
+    "binutil": "git://github.com/lfdoherty/binutil.git"
   },
   "devDependencies": {},
   "scripts": {}
